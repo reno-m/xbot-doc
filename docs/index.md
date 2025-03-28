@@ -4,7 +4,6 @@ title: Xbot操作マニュアル
 # 目次
 
 - はじめに
-  - [開設から運用開始までの流れ](start/to-end.md)
   - [管理画面の構成](start/screen-composition.md)
 - ユーザー管理
   - [友達追加をしたユーザーを確認する](user/list.md)
